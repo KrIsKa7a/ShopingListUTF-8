@@ -1,0 +1,143 @@
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\ApplicationInsights.config
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\csc.exe
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\csc.exe.config
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\csc.rsp
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\csi.exe
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\csi.rsp
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\System.AppContext.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\System.Collections.Immutable.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\System.IO.FileSystem.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\System.Reflection.Metadata.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\vbc.exe
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\vbc.exe.config
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\vbc.rsp
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\VBCSCompiler.exe
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\roslyn\VBCSCompiler.exe.config
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\ShoppingList.dll.config
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\ShoppingList.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\ShoppingList.pdb
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Antlr3.Runtime.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\EntityFramework.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\EntityFramework.SqlServer.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.Agent.Intercept.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.DependencyCollector.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.Web.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.WindowsServer.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.ApplicationInsights.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.Web.Infrastructure.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Newtonsoft.Json.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Helpers.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Mvc.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Optimization.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Razor.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.WebPages.Deployment.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.WebPages.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.WebPages.Razor.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\WebGrease.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\EntityFramework.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\EntityFramework.SqlServer.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Helpers.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Mvc.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Optimization.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.Razor.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.WebPages.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.WebPages.Deployment.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\System.Web.WebPages.Razor.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Antlr3.Runtime.pdb
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Newtonsoft.Json.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.ApplicationInsights.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.DependencyCollector.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.WindowsServer.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\bin\Microsoft.AI.Web.xml
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\obj\Debug\ShoppingList.dll
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\obj\Debug\ShoppingList.pdb
+F:\00. Work\Software-Technologies-Exam-02-09-2017\C# Skeleton\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+D:\exam\Skeletons\C# Solution\ShoppingList\obj\Debug\ShoppingList.csprojResolveAssemblyReference.cache
+D:\exam\Skeletons\C# Solution\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+D:\exam\Skeletons\C# Solution\ShoppingList\obj\Debug\ShoppingList.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\obj\Debug\ShoppingList.pdb
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\ApplicationInsights.config
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\csc.exe
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\csc.exe.config
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\csc.rsp
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\csi.exe
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\csi.rsp
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\System.AppContext.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\System.Collections.Immutable.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\System.IO.FileSystem.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\System.Reflection.Metadata.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\vbc.exe
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\vbc.exe.config
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\vbc.rsp
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\VBCSCompiler.exe
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\roslyn\VBCSCompiler.exe.config
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\ShoppingList.dll.config
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\ShoppingList.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\ShoppingList.pdb
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Antlr3.Runtime.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\EntityFramework.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\EntityFramework.SqlServer.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.Agent.Intercept.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.DependencyCollector.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.Web.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.WindowsServer.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.ApplicationInsights.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.Web.Infrastructure.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Newtonsoft.Json.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Helpers.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Mvc.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Optimization.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Razor.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.WebPages.Deployment.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.WebPages.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.WebPages.Razor.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\WebGrease.dll
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\EntityFramework.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\EntityFramework.SqlServer.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Helpers.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Mvc.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Optimization.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.Razor.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.WebPages.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.WebPages.Deployment.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\System.Web.WebPages.Razor.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Antlr3.Runtime.pdb
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Newtonsoft.Json.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.ApplicationInsights.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.DependencyCollector.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.WindowsServer.xml
+D:\exam\Skeletons\C# Solution\ShoppingList\bin\Microsoft.AI.Web.xml
